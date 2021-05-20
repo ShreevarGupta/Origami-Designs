@@ -1,0 +1,14 @@
+h1 {
+    color: pink;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.click {
+    background-color: ivory;
+    font-family: sans-serif;
+}
+
+.top {
+    flex-wrap: wrap;
+}
